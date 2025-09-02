@@ -1,14 +1,5 @@
-# Pharmaplus-Case <img width="901" height="429" alt="ETL" src="https://github.com/user-attachments/assets/d0e74051-b25b-48ec-86b3-e3729052abd5" />
+# <div align="center">Pharmap;us</div>
 
-<a name="readme-top"></a>
-
-# <div align="center">KWS ETL</div>
-
-A case study for visitors (both foreign and local) visiting the Kenyan Tourism sector - Revamp Ongoing
-
-With the rising numbers of tourism in Kenya, The Kenya wildlife service (KWS) has been recording an influx of visitors coming to see Kenya’s wildlife.
-
-In this Project, I have sourced files from an open source data  (KWS), perfomed ETL processes using pyspark and visualization using Grafana:
 
 ## 🛠 Built With <a name="built-with"></a>
 
