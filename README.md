@@ -1,4 +1,4 @@
-# <div align="center">Pharmap;us</div>
+# <div align="center">Pharmaplus</div>
 
 
 ## 🛠 Built With <a name="built-with"></a>
